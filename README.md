@@ -6,7 +6,7 @@
 ![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)
 
 ## Other Tools
-![My Skills](https://skillicons.dev/icons?i=python,mysql,redux,c,tailwind,nextjs,restAPI)
+![My Skills](https://skillicons.dev/icons?i=python,mysql,c,tailwind,nextjs,restAPI)
 
 ## Github stats
 
