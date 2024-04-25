@@ -3,10 +3,10 @@
 
 ## My Stack
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)
+![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,django)
 
 ## Other Tools
-![My Skills](https://skillicons.dev/icons?i=python,mysql,c,tailwind,nextjs,restAPI)
+![My Skills](https://skillicons.dev/icons?i=python,mysql,tailwind,nextjs,figma,flutter,vite)
 
 ## Github stats
 
