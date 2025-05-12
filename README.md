@@ -12,6 +12,6 @@
 
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-ak&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-ak&show_icons=true&theme=synthwave&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
